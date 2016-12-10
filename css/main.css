@@ -15,3 +15,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+}
+
+img:nth-child(even) {
+  display: none;
+}
