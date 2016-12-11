@@ -63,8 +63,5 @@ img:nth-child(even) {
     padding: 0;
   }
 
-  img:first-child {
-    display: inline-block;
-  }
 
 }
